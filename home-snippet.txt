@@ -1,0 +1,17 @@
+<div class="container" id="jumbotron">
+  <img src="img/chinese-restaurant.jpg">
+</div>
+  <div class="container category">
+    <div class="row">
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <a href="#" class="menu-snippet" ><div id='menu'><p>menu</p></div></a>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12" >
+        <a href="#"><div id='specials'><p>specials</p></div></a>
+      </div>
+      <div class="col-lg-4 col-md-12 col-sm-12">
+        <a href="https://goo.gl/maps/7yfGccizhoQJpk3B7" target="_blank"><div id='map'><p>map</p></div></a>
+      </div>
+    </div>
+  </div>
+</div>

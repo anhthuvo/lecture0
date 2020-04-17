@@ -1,0 +1,54 @@
+
+    <h1 class="title">Menu Categories</h1>
+    <p>Substituting white rice with brown rice or fried rice after 3:00pm will be $1.50 for a pint and $2.5 for a quart </p>
+    <div class="row menu-categories" id="menu-categories">
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="lunch.html" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="#" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="#" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="#" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="#" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="#" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-12">
+        <a href="#" class="text-decoration-none">
+          <div class="rounded-bottom">
+            <p class="rounded-bottom">lunch</p>
+          </div>
+        </a>
+      </div>
+    </div>
