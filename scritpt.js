@@ -4,6 +4,9 @@ document.addEventListener("DOMContentLoaded", function(){
 document.querySelector("#menu-icon").addEventListener("blur",function(){
    document.getElementById("navbarNavDropdown").classList.toggle("show");
 });
+   
+Ajax("menu-snippet",'menu-snippet.txt',".main-container");
+Ajax("home-snippet","home-snippet.txt",".main-container");
 
 function Ajax(clickedObject,file,updatedElement){
    var allClickedObject = document.getElementsByClassName(clickedObject);
@@ -32,7 +35,5 @@ function Ajax(clickedObject,file,updatedElement){
    };
  };
  
- Ajax("menu-snippet",'menu-snippet.txt',".main-container");
- Ajax("home-snippet","home-snippet.txt",".main-container");
-
+ 
 });
